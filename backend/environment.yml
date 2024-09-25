@@ -1,0 +1,10 @@
+name: conv_app
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - fastapi
+  - python-dotenv
+  - uvicorn
+  - websockets
+prefix: /Users/maxwill/miniconda3/envs/conv_app
